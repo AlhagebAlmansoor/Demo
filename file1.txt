@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 Line1 
 Line 2 - Dev 1
-=======
 Line1
-Line2 - Developer 2 
->>>>>>> 56a27abca2fb0aa20978f96eb812d285edae0d2d
+Line2 - Developer 2
