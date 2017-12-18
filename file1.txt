@@ -1,14 +1,6 @@
 Line1 
 Line 2 - Dev 1
 Line1
-<<<<<<< HEAD
-<<<<<<< HEAD
 Line2 - Developer 2
 Line3 - Developer 3
-=======
 Line2 - Developer 2
->>>>>>> c73006a05a3f2381f82db009dc431247d75a3fbb
-=======
-Line2 - Developer 2
-Line3
->>>>>>> da01eadda1a5afb6d969a15ca5ec1d29445469b5
